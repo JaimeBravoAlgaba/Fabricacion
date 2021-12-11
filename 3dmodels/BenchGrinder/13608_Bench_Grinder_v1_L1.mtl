@@ -1,0 +1,120 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.02.2012 16:46:50
+
+newmtl power_centis_bench_grinder_metal_corpus
+	Ns 41.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6314 0.6314 0.6314
+	Kd 0.2824 0.2824 0.2824
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+
+newmtl power_centis_bench_grinder_front_panel
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2824 0.2824 0.2824
+	Kd 0.7059 0.7059 0.7059
+	Ks 0.1694 0.1694 0.1694
+	Ke 0.0000 0.0000 0.0000
+	map_bump power_centis_bench_grinder_front_panel_bump.jpg
+	bump power_centis_bench_grinder_front_panel_bump.jpg
+
+newmtl power_centis_bench_grinder_hone
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2160 0.2160 0.2160
+	Ke 0.0000 0.0000 0.0000
+	map_Ka power_centis_bench_grinder_hone.jpg
+	map_Kd power_centis_bench_grinder_hone.jpg
+	map_bump power_centis_bench_grinder_hone.jpg
+	bump power_centis_bench_grinder_hone.jpg
+
+newmtl power_centis_bench_grinder_red_button
+	Ns 47.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5922 0.0471 0.0471
+	Kd 0.6392 0.1569 0.1569
+	Ks 0.4260 0.4260 0.4260
+	Ke 0.0000 0.0000 0.0000
+	map_Ka power_centis_bench_grinder_button.jpg
+	map_Kd power_centis_bench_grinder_button.jpg
+
+newmtl power_centis_bench_grinder_eyes_protectors
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2627 0.2627 0.2627
+	Kd 0.8627 0.8627 0.8627
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+
+newmtl power_centis_bench_grinder_glass
+	Ns 31.0000
+	Ni 1.5000
+	d 0.1500
+	Tr 0.8500
+	Tf 0.1500 0.1500 0.1500 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.4500 0.4500 0.4500
+	Ke 0.0000 0.0000 0.0000
+
+newmtl power_centis_bench_grinder_metal_base
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.6000 0.6000 0.6000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka power_centis_bench_grinder_logo_stecker.jpg
+	map_Kd power_centis_bench_grinder_logo_stecker.jpg
+
+newmtl power_centis_bench_grinder_black_plastic
+	Ns 16.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.1529 0.1529 0.1529
+	Ks 0.0841 0.0841 0.0841
+	Ke 0.0000 0.0000 0.0000
+
+newmtl power_centis_bench_grinder_bolts
+	Ns 49.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2627 0.2627 0.2627
+	Kd 0.7216 0.6588 0.5216
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
